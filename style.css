@@ -1,0 +1,61 @@
+/*class dynamique*/
+.success , .error{
+    text-align: center;
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+.success{
+    background-color: green;
+}
+.error{
+    background-color: red;
+}
+
+/*Style*/
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    text-align: center;
+}
+label{
+    display: block;
+    width: 100px;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 10px;
+}
+input{
+    display: block;
+    width: 50%;
+    height: 30%;
+    margin: 0 auto;
+}
+.form-group{
+    margin: 20px 20px;
+}
+#submit{
+    background-color: blue;
+    border-radius: 20px;
+    color: white;
+    width: 200px;
+    margin-top: 20px;
+padding: 20px 20px;
+font-size: 20px;
+line-height: 0px;
+}
+
+/*tableu*/
+
+table{
+    width: 100%;
+    margin: auto;
+}
+th{
+    width: 33%;
+}
+td{
+    text-align: center;
+}
